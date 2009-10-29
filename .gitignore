@@ -1,0 +1,6 @@
+*.cachefile
+*.user
+bin
+obj
+Content/bin
+Content/obj
